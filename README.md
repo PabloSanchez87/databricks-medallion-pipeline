@@ -131,10 +131,15 @@ Es una **plantilla extensible y realista** para entornos empresariales. Refleja:
 
 > _“La ingeniería de datos no se trata solo de mover datos. Se trata de construir sistemas resilientes, automatizados y gobernados que evolucionen con el negocio.”_
 
----
 
 ## 🤖 Generación del README
 
 Este README fue creado con el apoyo de una IA generativa, guiada paso a paso para documentar el proyecto de forma clara y estructurada.
 
-## 
+## Agradecimientos
+
+Para finalizar, queremos dar un **crédito especial** a **Ansh Lamba** por su excepcional tutorial de YouTube, que sirvió de inspiración fundamental para este proyecto. Su contenido detallado y de alta calidad fue clave para el desarrollo y los aprendizajes obtenidos. Puedes encontrar su trabajo y conectar con él a través de los siguientes enlaces:
+
+* **Tutorial original de YouTube:** [https://youtu.be/vT7Oeu7WqHg](https://youtu.be/vT7Oeu7WqHg)
+* **Repositorio de GitHub:** [https://github.com/anshlambagit/AnshLambaYoutube/tree/main/Databricks%20End%20To%20End%20Project](https://github.com/anshlambagit/AnshLambaYoutube/tree/main/Databricks%20End%20To%20End%20Project)
+* **LinkedIn:** [linkedin.com/in/ansh-lamba-793681184](https://www.linkedin.com/in/ansh-lamba-793681184)
